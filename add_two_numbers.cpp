@@ -9,7 +9,7 @@ struct ListNode {
  
 class Solution {
 public:
-    ListNode* addTwoNumbers1(ListNode* l1, ListNode* l2) {     //²»ÄÜ¶Ô¸¶´óÊı¾İ
+    ListNode* addTwoNumbers1(ListNode* l1, ListNode* l2) {     //ä¸èƒ½å¯¹ä»˜å¤§æ•°æ®
         ListNode* p1 = l1;
         ListNode* p2 = l2;
         int n1 = 0;
